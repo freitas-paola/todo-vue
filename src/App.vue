@@ -9,7 +9,7 @@ const estado = reactive({
   tarefaTemp: "",
   tarefas: [
     {
-      título: "Estudar ES6",
+      título: "Estudar Vue.js",
       finalizada: false,
     },
     {
